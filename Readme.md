@@ -15,8 +15,8 @@ The repository is structured to separate different offensive and defensive logic
 ### Installation
 Clone the repository and build the entire workspace:
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/diljith369/TheRustSecEngineeringHandbook.git
+cd TheRustSecEngineeringHandbook
 cargo build --release
 ```
 To run a specific tool within the workspace:
