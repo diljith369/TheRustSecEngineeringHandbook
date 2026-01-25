@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "keygen",
+    "simulator",
+    "decrypter"
+]
