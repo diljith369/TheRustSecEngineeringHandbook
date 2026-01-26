@@ -1,0 +1,10 @@
+[package]
+name = "shellcodecipher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aes-gcm = "0.10.3"
+pbkdf2 = "0.12.2"
+sha2 = "0.10.9"
+rand = "0.8"
